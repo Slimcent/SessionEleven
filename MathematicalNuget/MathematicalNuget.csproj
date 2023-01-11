@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+    <AssemblyName>MathematicalNuget</AssemblyName>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>MathematicalNuget</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Bezao</Authors>
+    <Company>Genesys</Company>
+    <Product>MathematicalNuget</Product>
+    <Description>A simple mathematical calculator.</Description>
+  </PropertyGroup>
+
+</Project>
